@@ -1,0 +1,26 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "this is a node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(http://github.com/ammi95/node-js.git)"
+  },
+  "keywords": [
+    "code",
+    "aman"
+  ],
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
